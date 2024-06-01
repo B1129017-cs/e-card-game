@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-card-game/static/css/main.f855e6bc.css",
+    "main.js": "/e-card-game/static/js/main.77407a71.js",
+    "static/js/453.2a82e7ac.chunk.js": "/e-card-game/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/e-card-game/index.html",
+    "main.f855e6bc.css.map": "/e-card-game/static/css/main.f855e6bc.css.map",
+    "main.77407a71.js.map": "/e-card-game/static/js/main.77407a71.js.map",
+    "453.2a82e7ac.chunk.js.map": "/e-card-game/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.77407a71.js"
+  ]
+}
