@@ -1,3 +1,8 @@
+
+import './App.css';
+import React from 'react';
+
+
 const { useState } = React;
 
 const CARD_TYPES = {
@@ -179,4 +184,8 @@ function App() {
   );
 }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+
+
+
+
+export default App;
